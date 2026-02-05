@@ -2,7 +2,7 @@ Gabriel Alcântara
 
 **Estudante de Segurança da Informação | Redes | Cloud | Infraestrutura**
 
-Me chamo Gabriel Alcântara, tenho 28 anos e moro em São Paulo – SP.  
+Me chamo Gabriel Alcântara, tenho 29 anos e moro em São Paulo – SP.  
 Sou estudante de Segurança da Informação e utilizo este GitHub para organizar meus estudos e projetos práticos nas áreas de redes, infraestrutura, cloud e segurança.
 
 Atualmente, curso o tecnólogo em Segurança da Informação pela Faculdade Anhanguera (5º semestre) e possuo certificações como **AZ-900**, **SC-900**, **CCNA 1**, **IBM Cybersecurity** e **Google Cloud**.
